@@ -1,0 +1,7 @@
+Cython
+h5py
+numpy
+Pillow
+scipy>=1.0.0
+torch>=1.0.1
+torchvision>=0.4.1
